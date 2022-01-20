@@ -3,16 +3,16 @@
 
 
 - 🔭 Procurando uma oportunidade no mercado de trabalho
-- 📚 Estudando Java
+- 📚 Atualmete estou estudando Java
 
 <div>
   <a href="https://github.com/Moura14">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moura14&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moura14&layout=compact&langs_count=7&theme=dark">
 </div>
-  <div><br>
-   <img align="center" alt="João Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/> 
-  <img align="center" alt="João Flutter" height="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+  <div style="display: inline_block"><br>
+   <img align="center" alt="João Java" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg"> 
+  <img align="center" alt="João Flutter" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg">
 </div>
   
   ##
