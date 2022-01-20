@@ -3,7 +3,7 @@
 
 
 - 🔭 Procurando uma oportunidade no mercado de trabalho
-- 📚 Atualmete estou estudando Java
+- 📚 Estudando Java
 
 <div>
   <a href="https://github.com/Moura14">
