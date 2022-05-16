@@ -3,7 +3,7 @@
 
 
 - 🔭 Procurando uma oportunidade no mercado de trabalho
-- 📚 Estudando Java
+- 📚 Desenvolvedor Mobile | Flutter | Android/IOS
 
 <div>
   <a href="https://github.com/Moura14">
