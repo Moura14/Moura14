@@ -1,8 +1,6 @@
 ### Olá, eu sou o João Gabriel👋
 
 
-
-- 🔭 Procurando uma oportunidade no mercado de trabalho
 - 📚 Desenvolvedor Mobile | Flutter | Android/IOS
 
 <div>
