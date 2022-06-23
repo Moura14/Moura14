@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Gabriel👋
 
 
-- 📚 Desenvolvedor Mobile | Flutter | Android/IOS
+- 📚 Desenvolvedor Mobile | Front-End 
 
 <div>
   <a href="https://github.com/Moura14">
