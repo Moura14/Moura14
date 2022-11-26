@@ -11,6 +11,9 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="João Flutter" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg">
     <img align="center" alt="João Flutter" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+    <img align="center" alt="João Flutter" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+     
+  
   
 </div>
   
