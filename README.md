@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Gabriel👋
 
 
-- 📚 Desenvolvedor Mobile
+- 📚 Mobile Developer
 
 <div>
   <a href="https://github.com/Moura14">
